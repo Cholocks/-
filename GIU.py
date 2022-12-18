@@ -32,4 +32,5 @@ btn.config(text='로또 당첨 버튼 확인') #버튼 제목
 btn.config(command=click) #버튼을 눌렀을때 지시사항 실행, 여기서는 click이라는 사용자 지정 함수를 실행 하라는 것이 지시사항이다.
 btn.pack()
     
-win.mainloop() #프로그램 실행
+win.mainloop() #프로그램 실행 
+#한번더 test 하는 걸로!!
