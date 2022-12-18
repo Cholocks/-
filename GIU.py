@@ -33,4 +33,4 @@ btn.config(command=click) #버튼을 눌렀을때 지시사항 실행, 여기서
 btn.pack()
     
 win.mainloop() #프로그램 실행 
-#한번더 test 하는 걸로!!
+#보시는 분들께: 화이팅 하십쇼!!
